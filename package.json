@@ -1,0 +1,21 @@
+{
+  "name": "client-side-router",
+  "version": "0.0.1",
+  "description": "A very basic client-side router implemented using Web Components that extend built-in HTML elements.",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DannyMoerkerke/client-side-router.git"
+  },
+  "author": "Danny Moerkerke <danny@dannymoerkerke.nl>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DannyMoerkerke/client-side-router/issues"
+  },
+  "homepage": "https://github.com/DannyMoerkerke/client-side-router#readme",
+  "scripts": {
+    "start": "ws -p 8080 --spa index.html"
+  },
+  "devDependencies": {
+    "local-web-server": "^4.2.1"
+  }
+}
