@@ -2,7 +2,7 @@
 This is a very basic (and naive) implementation of a client-side router implemented using Web Components that
 extend the native `<nav>` and `<a>` through the `is` attribute.
 
-For an in-depth explanation, see my article on Medium: ...
+For an in-depth explanation, see my article on Medium: [How To Extend A Native HTML Element](https://itnext.io/how-to-extend-a-native-html-element-1d4674e09c22?source=friends_link&sk=f399b6e4e70666eb092d5d409b3c0918)
 
 ### Usage
 
